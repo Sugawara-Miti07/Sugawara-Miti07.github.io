@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Summer 2021: Research Assistant
+* 2021-2022: Research Assistant
   * Tokyo Institute of Technology
   ** 日本語法律文書に特化したBERTの構築
   ** 日本語法律BERTを用いた判決書からの重要箇所抽出
