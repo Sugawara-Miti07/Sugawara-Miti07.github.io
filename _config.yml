@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuta Sugawara"
   avatar           : "profile.png"
-  bio              : "I'm sudying master's in computer science majoring Natural Language Processing"
+  bio              : "I'm sudying master's in computer science majoring Natural Language Processing at Tokyo Institute of Technology" 
   location         : "Tokyo in Japan"
   employer         :
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Sugawara-Miti07"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+ # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+#  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
